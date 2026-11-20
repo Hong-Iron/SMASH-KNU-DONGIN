@@ -1,0 +1,34 @@
+{
+ "region": "대구 중구 동인동",
+ "nameEn": "Kyungpook National University Dongin Campus",
+ "added": "2026-11-01T02:27",
+ "rank": 318,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DNUE",
+   "campus": "대구교육대학교",
+   "km": 2.3
+  },
+  {
+   "code": "KNU",
+   "campus": "경북대학교 대구캠퍼스",
+   "km": 2.5
+  },
+  {
+   "code": "KEIMYUNG-DAEMYEONG",
+   "campus": "계명대학교 대명캠퍼스",
+   "km": 2.6
+  },
+  {
+   "code": "DAEGU-DAEMYEONG",
+   "campus": "대구대학교 대명동캠퍼스",
+   "km": 2.9
+  },
+  {
+   "code": "YNC",
+   "campus": "영남이공대학교",
+   "km": 3.0
+  }
+ ]
+}
